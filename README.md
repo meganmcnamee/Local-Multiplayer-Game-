@@ -1,3 +1,3 @@
 Local Multiplayer Game
 
-Devleoped for Honors Workshop class 
+Developed for Honors Workshop class 
